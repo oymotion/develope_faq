@@ -7,13 +7,13 @@ LSL
 
 The lab streaming layer (LSL) is a system for the unified collection of measurement time series in research experiments that handles both the networking, time-synchronization, (near-) real-time access as well as optionally the centralized collection, viewing and disk recording of the data.
 
-Key Features:
+Key Features
 ~~~~~~~~~~~~~~
 - **6 Language Bindings ( Python, Matlab, C# and etc )**
 - **4 OS ( Windows, Mac, Linux, Android )**
 - **Rich 3rd Party Tools**
 
-Tools:
+Tools
 ~~~~~~~~~~~~~~
 
 - `OYM_BCI_TOOLS <https://rehab.oymotion.com/OYM_BCI_TOOLS1.0.16.zip>`_

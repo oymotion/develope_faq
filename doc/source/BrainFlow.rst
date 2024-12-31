@@ -8,7 +8,7 @@ BrainFlow
 
 BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors.
 
-Key Features:
+Key Features
 ~~~~~~~~~~~~~~
 - **9 Language Bindings ( Python, Matlab, C# and etc )**
 - **5 OS / Platforms ( Windows, Mac, Linux, Android, Devices )**
