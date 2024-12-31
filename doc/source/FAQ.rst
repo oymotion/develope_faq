@@ -2,7 +2,7 @@ FAQ
 =================
 
 .. _GET_MAC_ADDRESS:
-How to get MAC address of Synchrony device?
+How to get MAC address of Synchroni device?
 --------------------------------------------------
 
 Choose Synchrony **LITE** app from droplist `Download <https://synchrony.oymotion.com/admin/index>`_.

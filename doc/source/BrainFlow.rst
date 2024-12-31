@@ -30,7 +30,7 @@ Install requirements for python code sample:
 
     pip install -r https://github.com/SynchroniSI/brainflow/releases/download/v0.0.1/requirements.txt
 
-Run example code: `Download plot_real_time_min.py <https://github.com/SynchroniSI/brainflow/releases/download/v0.0.1/plot_real_time_min.py>`_
+Run example code: Download `plot_real_time_min.py <https://github.com/SynchroniSI/brainflow/releases/download/v0.0.1/plot_real_time_min.py>`_
 
 .. code-block:: bash
 
