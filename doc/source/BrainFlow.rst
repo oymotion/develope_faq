@@ -36,7 +36,7 @@ Power on Synchroni device and run below code in terminal:
 
 .. code-block:: bash
 
-    python plot_real_time_min.py --board-id=58 --mac-address=C4:64:E3:D8:E6:C6
+    python plot_real_time_min.py --board-id=58 --mac-address=C4:64:E3:D8:E6:C6 --timeout=5
 
 param **--board-id** list:
 
@@ -44,6 +44,8 @@ param **--board-id** list:
 - **Sync-Trio** [board-id=58]
 - **Sync-Octo** [board-id=59]
 - **Sync-Neo** [board-id=60]
+
+param **--timeout**: [default=5, try increase timeout if you met issue]
 
 param **--mac-address**: :ref:`GET_MAC_ADDRESS`
 
