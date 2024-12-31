@@ -1,6 +1,8 @@
 Products
 =================
 
+EEG devices
+-------------
 .. gForce
 .. ---------
 
@@ -8,8 +10,17 @@ Products
 .. - **gForcePro/Pro+/Oct**: [Details about these products]
 .. - **gForceJoint**: [Explain what gForceJoint is for]
 
-Synchrony
----------
+- Synchroni
+~~~~~~~~~~
+
+.. image:: ./_static/synchroni1.webp
+    :width: 400
+
+.. image:: ./_static/synchroni2.webp
+    :width: 400
+
+|
+|
 
 - **Sync-Uno** [1EEG] `Buy <https://shop.synchroni.co/products/synchroni-uno>`_
 - **Sync-Trio** [2EEG + 1ECG] `Buy <https://shop.synchroni.co/products/synchroni-trio>`_

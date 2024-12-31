@@ -6,6 +6,7 @@
 Welcome to Developer Community of OYMotion
 ===========================================
 
+This developer community contains resources of products, SDK, and tools.
 
 .. toctree::
     Products
