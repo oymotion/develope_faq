@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'OYMotion develope faq'
+project = 'OYMotion develope community'
 copyright = '2025, OYMotion Co., Ltd.'
 author = 'Martin Ye'
 
