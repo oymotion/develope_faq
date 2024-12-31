@@ -18,19 +18,21 @@ Getting Started
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Requirements: Windows10+(64bit) PC with Bluetooth 4.0+ and Python3.7+(64bit)
 
-Install BrainFlow python_package.
+Install BrainFlow python_package in terminal:
 
 .. code-block:: bash
 
     pip install https://github.com/SynchroniSI/brainflow/releases/download/v0.0.1/brainflow-0.0.1-py3-none-any.whl
 
-Install requirements for python code sample:
+Install requirements for python code sample in terminal:
 
 .. code-block:: bash
 
     pip install -r https://github.com/SynchroniSI/brainflow/releases/download/v0.0.1/requirements.txt
 
 Run example code: Download `plot_real_time_min.py <https://github.com/SynchroniSI/brainflow/releases/download/v0.0.1/plot_real_time_min.py>`_
+
+Power on Synchroni device and run below code in terminal:
 
 .. code-block:: bash
 

@@ -28,9 +28,11 @@ Tools
 
 Getting Started
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Requirements: Windows10+(64bit) PC, an iPhone or Android device, download `OYM_BCI_TOOLS <https://rehab.oymotion.com/OYM_BCI_TOOLS1.0.16.zip>`_ and `RealTimeViewer <https://www.brainproducts.com/download/brainvision-lsl-viewer>`_.
+Requirements: Windows10+(64bit) PC, an iPhone or Android device, download
 
-Download `Synchrony app <https://synchrony.oymotion.com/admin/index>`_ and install
+- `OYM_BCI_TOOLS <https://rehab.oymotion.com/OYM_BCI_TOOLS1.0.16.zip>`_ 
+- `RealTimeViewer <https://www.brainproducts.com/download/brainvision-lsl-viewer>`_
+- `Synchrony app <https://synchrony.oymotion.com/admin/index>`_
 
 .. image:: ./_static/Synchrony.png
     :width: 600
