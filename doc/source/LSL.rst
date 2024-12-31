@@ -17,7 +17,7 @@ Tools
 ~~~~~~~~~~~~~~
 
 - `OYM_BCI_TOOLS <https://rehab.oymotion.com/OYM_BCI_TOOLS1.0.16.zip>`_
-- `RealTimeViewer <https://www.brainproducts.com/download/brainvision-lsl-viewer>`_
+- `LSLViewer <https://www.brainproducts.com/download/brainvision-lsl-viewer>`_
 - `PyQtRealTimeViewer <https://github.com/labstreaminglayer/App-SigVisualizer>`_
 - `Recorder <https://github.com/labstreaminglayer/App-LabRecorder>`_
 - `Playback <https://github.com/cbrnr/sigviewer>`_
@@ -31,7 +31,7 @@ Getting Started
 Requirements: Windows10+(64bit) PC, an iPhone or Android device, download
 
 - `OYM_BCI_TOOLS <https://rehab.oymotion.com/OYM_BCI_TOOLS1.0.16.zip>`_ 
-- `RealTimeViewer <https://www.brainproducts.com/download/brainvision-lsl-viewer>`_
+- `LSLViewer <https://www.brainproducts.com/download/brainvision-lsl-viewer>`_
 - `Synchrony app <https://synchrony.oymotion.com/admin/index>`_
 
 .. image:: ./_static/Synchrony.png
@@ -109,7 +109,7 @@ For best results, please decrease impledance of electrodes.(For example: **Z** v
 |
 |
 
-Start RealTimeViewer, click **Connect** button.
+Start LSLViewer, click **Connect** button.
 
 .. image:: ./_static/LSLViewer1.png
     :width: 600
