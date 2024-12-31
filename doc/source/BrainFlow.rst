@@ -38,10 +38,10 @@ Run example code: `Download plot_real_time_min.py <https://github.com/SynchroniS
 
 param **--board-id** list:
 
-- **Sync-Uno**: [board-id=57]
-- **Sync-Trio**: [board-id=58]
-- **Sync-Octo**: [board-id=59]
-- **Sync-Neo**: [board-id=60]
+- **Sync-Uno** [board-id=57]
+- **Sync-Trio** [board-id=58]
+- **Sync-Octo** [board-id=59]
+- **Sync-Neo** [board-id=60]
 
 param **--mac-address**: :ref:`GET_MAC_ADDRESS`
 
