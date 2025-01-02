@@ -109,7 +109,7 @@ For best results, please decrease impledance of electrodes.(For example: **Z** v
 |
 |
 
-Start LSLViewer, click **Connect** button.
+Start **BrainVision LSL Viewer**, click **Connect** button.
 
 .. image:: ./_static/LSLViewer1.png
     :width: 600
