@@ -8,7 +8,7 @@ SensorSDK is a powerful tool for working with Synchroni. All these devices work 
 **T**: To be developed
 
 +-------------+------------+-----------+------------+------------+-----------+ 
-| Language    | Android    | iOS       | MacOS      | Windows    | Linux     |
+| Language    | Android    | iOS       | MacOS      | Windows    | Ubuntu    |
 | /Platform   |            |           |            |            |           |
 +=============+============+===========+============+============+===========+ 
 | C++         |     T      |     Y     |     Y      |     Y      |     T     | 
