@@ -13,6 +13,9 @@ EEG devices
 - Synchroni
 ~~~~~~~~~~
 
+.. image:: ./_static/Frame9.jpg
+    :width: 600
+
 .. image:: ./_static/synchroni1.webp
     :width: 400
 
