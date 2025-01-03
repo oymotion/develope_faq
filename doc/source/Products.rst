@@ -10,8 +10,8 @@ EEG devices
 .. - **gForcePro/Pro+/Oct**: [Details about these products]
 .. - **gForceJoint**: [Explain what gForceJoint is for]
 
-- Synchroni
-~~~~~~~~~~
+- **Synchroni**
+~~~~~~~~~~~~~~~~~
 
 .. image:: ./_static/Frame9.jpg
     :width: 600
