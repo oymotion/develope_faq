@@ -13,7 +13,7 @@ SensorSDK is a powerful tool for working with Synchroni. All these devices work 
 +=============+============+===========+============+============+===========+ 
 | C++         |     Y      |     Y     |     Y      |     Y      |     Y     | 
 +-------------+------------+-----------+------------+------------+-----------+ 
-| .Net C#     |            |           |     Y      |     Y      |           |  
+| .Net C#     |            |           |            |     Y      |           |  
 +-------------+------------+-----------+------------+------------+-----------+ 
 | Java        |     Y      |           |            |            |           |  
 +-------------+------------+-----------+------------+------------+-----------+ 
@@ -31,7 +31,7 @@ SensorSDK is a powerful tool for working with Synchroni. All these devices work 
 +-------------+------------+-----------+------------+------------+-----------+ 
 
 
-- `iOS/MacOS (Objective-C, Swift, C++) <https://github.com/oymotion/SynchroniSDKiOS>`_
+- `iOS/MacOS (Objective-C, Swift) <https://github.com/oymotion/SynchroniSDKiOS>`_
 - `Android (Java, Kotlin) <https://github.com/oymotion/SynchroniSDKAndroid>`_
 - `Windows (C#) <https://github.com/oymotion/SynchronyWinCSharpDemo>`_
 - `ReactNative (iOS, Android) <https://github.com/SynchroniSI/Synchroni_SDK_React_Native>`_
