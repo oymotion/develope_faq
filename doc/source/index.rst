@@ -13,5 +13,4 @@ This developer community contains resources of products, SDK, and tools.
     BrainFlow
     LSL
     SDK
-    OYWW
     FAQ
