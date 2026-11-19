@@ -5,36 +5,42 @@ SensorSDK is a powerful tool for working with Synchroni. All these devices work 
 
 **Y**: Yes    
 
-**T**: To be developed
 
-+-------------+------------+-----------+------------+------------+-----------+ 
-| Language    | Android    | iOS       | MacOS      | Windows    | Ubuntu    |
-| /Platform   |            |           |            |            |           |
-+=============+============+===========+============+============+===========+ 
-| C++ (QT)    |     Y      |     Y     |     Y      |     Y      |     Y     | 
-+-------------+------------+-----------+------------+------------+-----------+ 
-| .Net C#     |            |           |            |     Y      |           |  
-+-------------+------------+-----------+------------+------------+-----------+ 
-| Java        |     Y      |           |            |            |           |  
-+-------------+------------+-----------+------------+------------+-----------+ 
-| Kotlin      |     Y      |           |            |            |           |  
-+-------------+------------+-----------+------------+------------+-----------+ 
-| Objective-C |            |     Y     |     Y      |            |           |  
-+-------------+------------+-----------+------------+------------+-----------+ 
-| Python      |            |           |     Y      |     Y      |     Y     |  
-+-------------+------------+-----------+------------+------------+-----------+ 
-| ReactNative |     Y      |     Y     |            |            |           |  
-+-------------+------------+-----------+------------+------------+-----------+ 
-| Swift       |            |     Y     |     Y      |            |           |  
-+-------------+------------+-----------+------------+------------+-----------+ 
-| Unity C#    |     Y      |     Y     |     Y      |     Y      |     Y     |  
-+-------------+------------+-----------+------------+------------+-----------+ 
++-------------+------------+-----------+------------+------------+------------+-----------+
+| Language    | Android    | iOS       | Harmony OS | MacOS      | Windows    | Ubuntu    |
+| /Platform   |            |           |            |            |            |           |
++=============+============+===========+============+============+============+===========+
+| C++ (QT)    |     Y      |     Y     |            |     Y      |     Y      |     Y     |
++-------------+------------+-----------+------------+------------+------------+-----------+
+| C# (.Net)   |            |           |            |            |     Y      |           |
++-------------+------------+-----------+------------+------------+------------+-----------+
+| C# (Unity)  |     Y      |     Y     |            |     Y      |     Y      |     Y     |
++-------------+------------+-----------+------------+------------+------------+-----------+
+| Ets         |            |           |     Y      |            |            |           |
++-------------+------------+-----------+------------+------------+------------+-----------+
+| Java        |     Y      |           |            |            |            |           |
++-------------+------------+-----------+------------+------------+------------+-----------+
+| Kotlin      |     Y      |           |            |            |            |           |
++-------------+------------+-----------+------------+------------+------------+-----------+
+| Node.js     |            |           |            |     Y      |     Y      |     Y     |
++-------------+------------+-----------+------------+------------+------------+-----------+
+| Objective-C |            |     Y     |            |     Y      |            |           |
++-------------+------------+-----------+------------+------------+------------+-----------+
+| Python      |            |           |            |     Y      |     Y      |     Y     |
++-------------+------------+-----------+------------+------------+------------+-----------+
+| ReactNative |     Y      |     Y     |            |            |            |           |
++-------------+------------+-----------+------------+------------+------------+-----------+
+| Swift       |            |     Y     |            |     Y      |            |           |
++-------------+------------+-----------+------------+------------+------------+-----------+
 
 
-- `iOS/MacOS (Objective-C, Swift) <https://github.com/oymotion/SynchroniSDKiOS>`_
-- `Android (Java, Kotlin) <https://github.com/oymotion/SynchroniSDKAndroid>`_
-- `Windows (C#) <https://github.com/oymotion/SynchronyWinCSharpDemo>`_
-- `ReactNative (iOS, Android) <https://github.com/SynchroniSI/Synchroni_SDK_React_Native>`_
+
+- `Objective-C, Swift (iOS/MacOS) <https://github.com/oymotion/SynchroniSDKiOS>`_
+- `Java, Kotlin (Android) <https://github.com/oymotion/SynchroniSDKAndroid>`_
+- `Ets (Harmony OS) <https://github.com/oymotion/SynchronyEtsDemo>`_
+- `JS ReactNative (iOS, Android) <https://github.com/oymotion/SynchroniReactNativeDemo>`_
+- `JS Node.js (Windows, MacOS, Linux) <https://github.com/oymotion/SynchroniReactDemo>`_
 - `Python (Windows, MacOS, Linux) <https://github.com/oymotion/SynchroniSDKPython>`_
 - `C++(QT) (Windows, MacOS, Linux, Android, iOS) <https://github.com/oymotion/SynchronyQtDemo>`_
-- `Unity C# (Windows, MacOS, Linux, Android, iOS) <https://github.com/oymotion/SynchronyUnityDemo>`_
+- `C# (Unity) (Windows, MacOS, Linux, Android, iOS) <https://github.com/oymotion/SynchronyUnityDemo>`_
+- `C# (.Net) (Windows) <https://github.com/oymotion/SynchronyWinCSharpDemo>`_
